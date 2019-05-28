@@ -1,0 +1,20 @@
+{
+  "name": "@clysema/dhcpcd",
+  "version": "0.1.0",
+  "description": "[![npm (scoped)](https://img.shields.io/npm/v/@clysema/dhcpcd.svg)](https://www.npmjs.com/package/@clysema/dhcpcd) [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@clysema/dhcpcd.svg)](https://www.npmjs.com/package/@clysema/dhcpcd)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Víctor Navarro <v.navarro@clysema.com> (https://www.clysema.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingeniadevteam/clysema-dhcpcd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ingeniadevteam/clysema-dhcpcd/issues"
+  },
+  "homepage": "https://github.com/ingeniadevteam/clysema-dhcpcd#readme"
+}
